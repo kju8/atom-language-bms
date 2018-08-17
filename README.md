@@ -1,1 +1,1 @@
-"# atom-language-bms" 
+# language-bms
